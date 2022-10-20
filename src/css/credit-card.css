@@ -58,6 +58,10 @@
   align-items: center;
 }
 
+.cc-extra .value {
+  min-width: 48px;
+}
+
 .cc,
 .cc-logo,
 .cc-number {
